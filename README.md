@@ -5,7 +5,7 @@ Modern web teknolojileri ve test otomasyonu disiplinlerini bir araya getiren ki�
 🔗  🚀 Canlı Demo
 Projenin canlı sürümüne aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-👉 **[Canlı Siteyi İnceleyin](https://personal-website-q7w7.onrender.com/)
+👉 [Canlı Siteyi İnceleyin](https://personal-website-q7w7.onrender.com/)
 
 ---
 
