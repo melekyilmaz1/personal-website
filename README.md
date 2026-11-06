@@ -2,7 +2,10 @@
 
 Modern web teknolojileri ve test otomasyonu disiplinlerini bir araya getiren kişisel portfolyo web sitesi. React ekosistemi, Tailwind CSS, çoklu dil (i18n) ve koyu/aydınlık tema yönetimiyle geliştirilmiştir.
 
-🔗 
+🔗 ## 🚀 Canlı Demo
+Projenin canlı sürümüne aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+👉 **[Canlı Siteyi İnceleyin](https://personal-website-q7w7.onrender.com/)**
 
 ---
 
