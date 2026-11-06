@@ -1,3 +1,58 @@
+# 💻 Melek Yılmaz | Personal Portfolio & QA / Frontend Showcase
+
+Modern web teknolojileri ve test otomasyonu disiplinlerini bir araya getiren kişisel portfolyo web sitesi. React ekosistemi, Tailwind CSS, çoklu dil (i18n) ve koyu/aydınlık tema yönetimiyle geliştirilmiştir.
+
+🔗 
+
+---
+
+## ✨ Öne Çıkan Özellikler
+
+* **Çift Dil Desteği (TR / EN):** React Context API üzerinden harici kütüphane bağımlılığı olmadan anlık dil geçişi.
+* **Karanlık / Aydınlık Mod (Dark Mode):** Tailwind CSS sınıf tabanlı tam tema uyumu ve yerel depolama (Local Storage) entegrasyonu.
+* **Duyarlı ve Kompakt Tasarım:** Masaüstü ve mobil ekranlarda dikeyde taşmayan, CV odaklı tek sayfa (single-page) düzeni.
+* **Modüler Bileşen Mimarisi:** Temiz kod ve ayrılmış veri havuzu (`src/data/data.js`) ile kolay yönetilebilirlik.
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+* **Frontend:** React.js, Vite, JavaScript (ES6+), HTML5, CSS3
+* **Stil & Tasarım:** Tailwind CSS, PostCSS
+* **Durum Yönetimi:** React Context API, Custom Hooks
+* **Test & Kalite:** Cypress (E2E), Postman (API Testing)
+* **Versiyon Kontrol & Dağıtım:** Git, GitHub, Vercel
+
+---
+
+## 🚀 Öne Çıkan Projeler
+
+1. **Fito - AI Fitness & Beslenme Koçu:** Next.js, Framer Motion ve PostgreSQL ile geliştirilmiş AI destekli kalori ve makro takip platformu.
+2. **Ski Instruction (Zirveye İz Bırak):** 3D görsel katmanlar, dinamik animasyonlar ve Supabase backend entegrasyonlu kayak rehber platformu.
+3. **Kitapsepeti.com E2E Test Automation:** Page Object Model (POM) mimarisiyle e-ticaret sepet, kargo ve ödeme süreçlerini doğrulayan Cypress E2E test otomasyon paketi (Jira Kanban takipli).
+
+---
+
+## 💻 Kurulum ve Çalıştırma
+
+Projeyi yerel makinenizde çalıştırmak için:
+
+```bash
+# Depoyu klonlayın
+git clone [https://github.com/melekyilmaz1/personal-website.git](https://github.com/melekyilmaz1/personal-website.git)
+
+# Proje dizinine girin
+cd personal-website
+
+# Bağımlılıkları yükleyin
+npm install
+
+# Geliştirme sunucusunu başlatın
+npm run dev
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
