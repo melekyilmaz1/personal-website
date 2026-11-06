@@ -1,4 +1,4 @@
-# 💻 Melek Yılmaz | Personal Portfolio & QA / Frontend Showcase
+# 💻 Melek Yılmaz | Personal Portfolio 
 
 Modern web teknolojileri ve test otomasyonu disiplinlerini bir araya getiren kişisel portfolyo web sitesi. React ekosistemi, Tailwind CSS, çoklu dil (i18n) ve koyu/aydınlık tema yönetimiyle geliştirilmiştir.
 
