@@ -52,7 +52,7 @@ export const pageData = {
         role: "Tercih Ettiği Rol",
       },
       values: {
-        birthDate: "24.03.1996",
+        birthDate: "23.02.2003",
         city: "Ankara",
         education: "Bilgisayar Mühendisliği",
         role: "QA Engineer / Frontend Dev",
